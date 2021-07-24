@@ -1,0 +1,16 @@
+	package br.org.generation.helloworld.controller;
+
+	import org.springframework.web.bind.annotation.GetMapping;
+	import org.springframework.web.bind.annotation.RequestMapping;
+	import org.springframework.web.bind.annotation.RestController;
+
+	public class objetivos {
+		@RestController
+		@RequestMapping("/objetivos")
+		public class HelloController { 
+			@GetMapping
+				public String objetivos() {
+					return "<h1 strong>Espero dominar o SpringBoot e todas as funções para desenvolver um CRUD com o mesmo.</h1>";
+				}
+		}
+	}

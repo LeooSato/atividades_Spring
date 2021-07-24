@@ -1,0 +1,1012 @@
+!SESSION 2021-07-23 08:34:42.248 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-07-23 08:38:08.335
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-23 08:38:08.335
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@78ea700f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@cd93621,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-23 08:38:15.298
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Leonardo Sato'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2021-07-23 08:46:49.216
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2021-07-23 08:46:14.624 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-07-23 08:46:54.764
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-23 08:46:54.764
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3e0e0ba7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7df5549e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-23 08:47:02.539
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Leonardo Sato'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2021-07-23 09:07:41.913
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2021-07-23 09:07:48.700 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-07-23 09:08:05.274
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-23 09:08:05.274
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2d34866a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@26291192,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-23 09:08:15.057
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Leonardo Sato'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-07-23 09:22:17.267
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:22:19.094
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:22:20.761
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:22:21.575
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:22:21.854
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:22:21.922
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:22:22.183
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:22:22.429
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:23:11.652
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:23:11.898
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:23:21.386
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:23:21.387
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@62ad6237[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:23:21.423
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:23:21.591
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:23:29.248
+!MESSAGE Boot LS startup time from start to initialized: 7798ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:23:29.809
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.pzZDOHGgisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:23:29.826
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:23:29.828
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:23:29.829
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:23:29.829
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:23:29.830
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.pzZDOHGg => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:23:29.836
+!MESSAGE classpath=72 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:23:29.839
+!MESSAGE buffering callback sts4.classpath.pzZDOHGg HelloWorld false 72
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:23:29.840
+!MESSAGE executing callback sts4.classpath.pzZDOHGg 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:23:30.950
+!MESSAGE executing callback sts4.classpath.pzZDOHGg SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2021-07-23 09:28:36.974
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-07-23 09:33:50.349
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:33:50.999
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-07-23 09:36:22.883
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-07-23 09:37:31.475
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:37:32.071
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:37:37.063
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:37:37.625
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-07-23 09:37:40.993
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-07-23 09:39:17.924
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:39:18.500
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:41:34.997
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:41:35.052
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:41:37.140
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.pzZDOHGg
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:41:37.141
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.pzZDOHGg
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:41:37.141
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:41:37.142
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.pzZDOHGg => OK
+!SESSION 2021-07-23 09:41:39.264 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-07-23 09:41:46.071
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-23 09:41:46.071
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@18f27a81,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@624494d4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:41:52.374
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:41:52.375
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@5ce61936[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:41:52.390
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:41:52.442
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2021-07-23 09:41:54.692
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-23 09:41:54.766
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Leonardo Sato'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:41:59.553
+!MESSAGE Boot LS startup time from start to initialized: 7156ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:41:59.698
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.iZJhHMZlisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:41:59.701
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:41:59.703
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:41:59.704
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:41:59.705
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:41:59.706
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.iZJhHMZl => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:41:59.719
+!MESSAGE classpath=72 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:41:59.725
+!MESSAGE buffering callback sts4.classpath.iZJhHMZl HelloWorld false 72
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:41:59.726
+!MESSAGE executing callback sts4.classpath.iZJhHMZl 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 09:42:00.162
+!MESSAGE executing callback sts4.classpath.iZJhHMZl SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-23 09:46:37.605
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:46:40.601
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:48:32.884
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:48:33.486
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:49:10.781
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:49:11.386
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:50:54.909
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:50:55.502
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:51:16.511
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:51:16.679
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:51:27.584
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:51:43.342
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:51:43.384
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:51:45.391
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:53:51.246
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:53:51.799
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:54:40.930
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:54:41.520
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:54:57.355
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 09:54:57.918
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 10:38:25.912
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.iZJhHMZl
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 10:38:26.046
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.iZJhHMZl
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 10:38:26.047
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 10:38:26.048
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.iZJhHMZl => OK
+
+!ENTRY org.eclipse.ui 2 2 2021-07-23 10:38:28.263
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2021-07-23 23:10:21.837 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-07-23 23:11:49.357
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-23 23:11:49.357
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@39840986,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@141229f6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:12:05.396
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:12:05.414
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@5cbb9eca[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:12:05.425
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:12:05.895
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2021-07-23 23:12:11.077
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-23 23:12:11.488
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Leonardo Sato'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 4 0 2021-07-23 23:12:14.559
+!MESSAGE HttpHostConnectException: Connect to http://localhost:2375 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: no further information
+!STACK 0
+java.lang.RuntimeException: com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.HttpHostConnectException: Connect to http://localhost:2375 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: no further information
+	at com.github.dockerjava.zerodep.ApacheDockerHttpClientImpl.execute(ApacheDockerHttpClientImpl.java:161)
+	at com.github.dockerjava.zerodep.ZerodepDockerHttpClient.execute(ZerodepDockerHttpClient.java:8)
+	at com.github.dockerjava.core.DefaultInvocationBuilder.execute(DefaultInvocationBuilder.java:228)
+	at com.github.dockerjava.core.DefaultInvocationBuilder.get(DefaultInvocationBuilder.java:202)
+	at com.github.dockerjava.core.DefaultInvocationBuilder.get(DefaultInvocationBuilder.java:75)
+	at com.github.dockerjava.core.exec.InfoCmdExec.exec(InfoCmdExec.java:24)
+	at com.github.dockerjava.core.exec.InfoCmdExec.exec(InfoCmdExec.java:14)
+	at com.github.dockerjava.core.command.AbstrDockerCmd.exec(AbstrDockerCmd.java:35)
+	at org.springframework.ide.eclipse.boot.dash.docker.runtarget.DockerRunTarget.connect(DockerRunTarget.java:130)
+	at org.springframework.ide.eclipse.boot.dash.cloudfoundry.RemoteBootDashModel.lambda$2(RemoteBootDashModel.java:77)
+	at org.springframework.ide.eclipse.boot.dash.model.remote.RefreshStateTracker.call(RefreshStateTracker.java:80)
+	at org.springframework.ide.eclipse.boot.dash.model.remote.RefreshStateTracker.lambda$3(RefreshStateTracker.java:123)
+	at org.springsource.ide.eclipse.commons.frameworks.core.util.JobUtil$6.run(JobUtil.java:193)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.HttpHostConnectException: Connect to http://localhost:2375 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:669)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:645)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.socket.PlainConnectionSocketFactory$1.run(PlainConnectionSocketFactory.java:87)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:84)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:148)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:409)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:164)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:174)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:135)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:165)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:93)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:116)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:128)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:178)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:67)
+	at com.github.dockerjava.zerodep.ApacheDockerHttpClientImpl.execute(ApacheDockerHttpClientImpl.java:157)
+	... 13 more
+
+!ENTRY Activator 4 0 2021-07-23 23:12:14.560
+!MESSAGE HttpHostConnectException: Connect to http://localhost:2375 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: no further information
+!STACK 0
+java.lang.RuntimeException: com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.HttpHostConnectException: Connect to http://localhost:2375 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: no further information
+	at com.github.dockerjava.zerodep.ApacheDockerHttpClientImpl.execute(ApacheDockerHttpClientImpl.java:161)
+	at com.github.dockerjava.zerodep.ZerodepDockerHttpClient.execute(ZerodepDockerHttpClient.java:8)
+	at com.github.dockerjava.core.DefaultInvocationBuilder.execute(DefaultInvocationBuilder.java:228)
+	at com.github.dockerjava.core.DefaultInvocationBuilder.get(DefaultInvocationBuilder.java:202)
+	at com.github.dockerjava.core.DefaultInvocationBuilder.get(DefaultInvocationBuilder.java:75)
+	at com.github.dockerjava.core.exec.InfoCmdExec.exec(InfoCmdExec.java:24)
+	at com.github.dockerjava.core.exec.InfoCmdExec.exec(InfoCmdExec.java:14)
+	at com.github.dockerjava.core.command.AbstrDockerCmd.exec(AbstrDockerCmd.java:35)
+	at org.springframework.ide.eclipse.boot.dash.docker.runtarget.DockerRunTarget.connect(DockerRunTarget.java:130)
+	at org.springframework.ide.eclipse.boot.dash.cloudfoundry.RemoteBootDashModel.lambda$2(RemoteBootDashModel.java:77)
+	at org.springframework.ide.eclipse.boot.dash.model.remote.RefreshStateTracker.call(RefreshStateTracker.java:80)
+	at org.springframework.ide.eclipse.boot.dash.model.remote.RefreshStateTracker.lambda$3(RefreshStateTracker.java:123)
+	at org.springsource.ide.eclipse.commons.frameworks.core.util.JobUtil$6.run(JobUtil.java:193)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.HttpHostConnectException: Connect to http://localhost:2375 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:669)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:645)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.socket.PlainConnectionSocketFactory$1.run(PlainConnectionSocketFactory.java:87)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:84)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:148)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:409)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:164)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:174)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:135)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:165)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:93)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:116)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:128)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:178)
+	at com.github.dockerjava.zerodep.shaded.org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:67)
+	at com.github.dockerjava.zerodep.ApacheDockerHttpClientImpl.execute(ApacheDockerHttpClientImpl.java:157)
+	... 13 more
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:12:18.003
+!MESSAGE Boot LS startup time from start to initialized: 12572ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:12:18.113
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.yNawHkqXisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:12:18.116
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:12:18.118
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:12:18.119
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:12:18.119
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.yNawHkqX => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:12:18.122
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:12:18.217
+!MESSAGE classpath=72 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:12:18.221
+!MESSAGE buffering callback sts4.classpath.yNawHkqX HelloWorld false 72
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:12:18.222
+!MESSAGE executing callback sts4.classpath.yNawHkqX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:12:18.715
+!MESSAGE executing callback sts4.classpath.yNawHkqX SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-23 23:13:43.356
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:13:43.488
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:13:43.567
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:13:51.083
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:13:51.174
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:13:55.186
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:13:55.235
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:13:56.019
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:13:56.067
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:13:56.114
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:13:56.115
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:13:56.117
+!MESSAGE buffering callback sts4.classpath.yNawHkqX HelloWorld-1.2 false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:13:56.118
+!MESSAGE executing callback sts4.classpath.yNawHkqX 1 batched events
+
+!ENTRY Activator 1 0 2021-07-23 23:13:56.149
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:13:56.150
+!MESSAGE executing callback sts4.classpath.yNawHkqX SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-23 23:13:58.327
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:13:58.550
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:13:58.552
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:13:58.557
+!MESSAGE classpath=72 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:13:58.560
+!MESSAGE buffering callback sts4.classpath.yNawHkqX HelloWorld-1.2 false 72
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:13:58.561
+!MESSAGE executing callback sts4.classpath.yNawHkqX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:13:58.579
+!MESSAGE executing callback sts4.classpath.yNawHkqX SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-23 23:13:58.930
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:13:58.945
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:13:59.994
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:13:59.994
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:14:00.183
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:14:00.190
+!MESSAGE classpath=72 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:14:00.195
+!MESSAGE buffering callback sts4.classpath.yNawHkqX HelloWorld-1.2 false 72
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:14:00.196
+!MESSAGE executing callback sts4.classpath.yNawHkqX 1 batched events
+
+!ENTRY Activator 1 0 2021-07-23 23:14:00.211
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:14:00.244
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:14:00.358
+!MESSAGE executing callback sts4.classpath.yNawHkqX SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-23 23:14:00.578
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:14:00.583
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:14:01.209
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:14:01.210
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:14:02.596
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:14:02.597
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY org.eclipse.ui 2 2 2021-07-23 23:17:41.907
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-07-23 23:18:51.244
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:18:51.248
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:18:51.471
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:18:51.473
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:19:02.772
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:19:02.772
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:19:03.332
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:19:03.339
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:20:36.551
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:20:36.552
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:20:37.146
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:20:37.147
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:21:52.665
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:21:52.670
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:21:53.244
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:21:53.247
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:22:14.557
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:22:14.583
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:22:14.770
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:22:14.772
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:22:16.722
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:22:16.723
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:22:42.003
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:22:42.011
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:22:42.551
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:22:42.554
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:23:28.852
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:23:28.853
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:23:29.137
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:23:29.137
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:23:41.181
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:23:41.182
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:23:41.762
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:23:41.765
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:24:03.614
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:24:03.615
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:24:04.164
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:24:04.164
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:24:47.491
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:24:47.493
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:24:48.043
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:24:48.045
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:24:59.340
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:24:59.343
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:24:59.467
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:24:59.468
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:25:15.047
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:25:15.057
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:25:15.600
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:25:15.631
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:25:35.880
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:25:35.882
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:25:36.466
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:25:36.468
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:25:37.509
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:25:37.510
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:25:38.094
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:25:38.096
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:25:43.043
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:25:43.043
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:25:43.630
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:25:43.631
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:25:52.997
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:25:52.997
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:25:53.539
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:25:53.540
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:26:05.597
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:26:05.603
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:26:06.141
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:26:06.141
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:26:22.721
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:26:22.722
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:26:23.308
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:26:23.309
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:26:42.511
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:26:42.511
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:26:43.106
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:26:43.110
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:26:47.296
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:26:47.296
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:26:47.887
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:26:47.887
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:28:44.721
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:28:44.722
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:28:45.312
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:28:45.312
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:28:48.943
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:28:48.945
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:28:49.854
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:28:49.855
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:29:49.121
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:29:49.124
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:29:54.869
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:29:54.871
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:30:12.935
+!MESSAGE Has main method computation for project 'HelloWorld'
+
+!ENTRY Activator 1 0 2021-07-23 23:30:12.935
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:30:16.064
+!MESSAGE Has main method computation for project 'HelloWorld-1.2'
+
+!ENTRY Activator 1 0 2021-07-23 23:30:16.065
+!MESSAGE Has main method computation for project 'HelloWorld'
